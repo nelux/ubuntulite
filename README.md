@@ -1,4 +1,4 @@
-# Ubuntu 18.04
+#Ubuntu 18.04
 
 ## Setup
 ### OSX Install Docker Desktop
@@ -12,6 +12,11 @@
 ## Usage
 - Currently drops into a shell 
 - Projects dir is a shared volume at runtime
+
+## Build
+```bash
+docker-compose build ubuntulite
+```
 
 ```bash
 docker-compose run ubuntulite
