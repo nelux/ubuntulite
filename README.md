@@ -13,7 +13,6 @@
 - Currently drops into a shell 
 - Projects dir is a shared volume at runtime
 
-## Build
 ```bash
 docker-compose build ubuntulite
 ```
