@@ -11,5 +11,7 @@ RUN apt-get update  -y \
     libcurl4 \
     libcurl4-openssl-dev \
     p7zip-full \
+    vim \
+    openssh-server \
     p7zip-rar
 
