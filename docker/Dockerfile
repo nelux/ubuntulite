@@ -13,5 +13,6 @@ RUN apt-get update  -y \
     p7zip-full \
     vim \
     openssh-server \
+    build-essential \
     p7zip-rar
 
