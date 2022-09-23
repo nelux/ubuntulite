@@ -14,5 +14,6 @@ RUN apt-get update  -y \
     vim \
     openssh-server \
     build-essential \
+    tmux \
     p7zip-rar
 
